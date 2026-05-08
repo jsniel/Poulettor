@@ -50,6 +50,16 @@ The system is designed to be simple, repairable and independent from the cloud.
 - 5V power source or USB power bank
 - Mechanical door, spool, cord and guides
 
+### Enclosure
+
+3D printable enclosure files
+- BoitePorte-Corps001.stl
+- BoitePorte-Corps002.stl
+
+
+Editable project with Freecad
+- BoitePorte.FCStd
+
 ---
 
 ## PCB / Electronics
