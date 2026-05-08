@@ -10,7 +10,7 @@ This directory contains the hardware design files for Poulettor.
 |---|---|
 | `fritzing/PoulaillerPorteGND.fzz` | Fritzing project |
 | `pcb/gerber/` | Gerber and drill files |
-| `bom/BOM.md` | Bill of materials |
+
 
 ---
 

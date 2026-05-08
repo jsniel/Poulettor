@@ -74,7 +74,7 @@ ESP32C3 Dev Module
 
 ```txt
 SSID: poulator2000
-Password: nounette
+Password: 123456789
 IP address: 192.168.4.1
 ```
 

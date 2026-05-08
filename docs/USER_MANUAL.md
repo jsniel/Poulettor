@@ -21,7 +21,7 @@ It opens the door in the morning based on sunrise and closes it in the evening b
 
 ```txt
 SSID: poulator2000
-Password: nounette
+Password: 123456789
 Address: http://192.168.4.1
 ```
 

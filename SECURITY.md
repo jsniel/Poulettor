@@ -6,7 +6,7 @@ Default credentials:
 
 ```txt
 SSID: poulator2000
-Password: nounette
+Password: 123456789
 ```
 
 Change credentials before using the device in a shared environment.

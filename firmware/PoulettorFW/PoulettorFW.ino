@@ -69,7 +69,7 @@ unsigned long mouvementStart = 0; // à placer en global
 RTC_DS3231 rtc;
 
 const char* ssid = "poulator2000";
-const char* password = "nounette";
+const char* password = "123456789";
 
 int offsetLever = 0;
 int offsetCoucher = 0;

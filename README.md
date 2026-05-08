@@ -145,7 +145,7 @@ Default access point:
 
 ```txt
 SSID: poulator2000
-Password: nounette
+Password: 123456789
 Address: http://192.168.4.1
 ```
 
