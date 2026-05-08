@@ -264,6 +264,7 @@ Install from Arduino Library Manager:
 Poulettor/
 ├── firmware/
 ├── hardware/
+├── enclosure-stl/
 ├── mechanical/
 ├── docs/
 ├── LICENSES/
