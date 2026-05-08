@@ -1,0 +1,1 @@
+Use the official GNU GPL v3 license text here: https://www.gnu.org/licenses/gpl-3.0.txt

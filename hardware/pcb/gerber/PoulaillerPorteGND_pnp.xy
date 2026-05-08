@@ -1,0 +1,26 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=PoulaillerPorteGND
+# Date=15:12:13
+# CreatedBy=Fritzing 1.0.3b.2024-05-30.CD-1995-0-a7811ba0
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+B_Close,";;;;;;;;","THT",79.9344,1083.75,180,Top,THT
+B_Close1,";;;;;;;;","THT",684.688,1745.03,90,Top,THT
+ZS-042 RTC1,";;;;;;;;","",1989.46,781.664,-91,Top,MANUAL
+End_Close,";;;;;;;;","THT",79.9344,683.752,0,Top,THT
+LED1,";;;;0.030A;;;;","5 mm [THT]",805.573,1183.75,90,Top,THT
+B_Close2,";;;;;;;;","THT",1820.35,1734.47,90,Top,THT
+End_Up,";;;;;;;;","THT",79.9344,383.752,0,Top,THT
+B_Up,";;;;;;;;","THT",79.9344,1383.75,180,Top,THT
+R1,"220;;;;;0.25W;;;","THT",1229.93,1183.75,180,Top,THT
+A1,";;;;;;;;","",1080.26,424.894,180,Top,MANUAL

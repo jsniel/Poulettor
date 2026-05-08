@@ -1,0 +1,12 @@
+Poulettor uses separate licenses for firmware and hardware.
+
+Firmware:
+GPL-3.0-or-later
+
+Hardware, PCB, wiring, mechanical files and documentation:
+CERN-OHL-S-2.0
+
+See:
+- COPYING.firmware
+- COPYING.hardware
+- LICENSES/

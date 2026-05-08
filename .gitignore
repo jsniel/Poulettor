@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Arduino IDE
+*.swp
+*.tmp
+
+# Build outputs
+build/
+.pio/
+*.bin
+*.elf
+*.map
+
+# Fritzing autosaves / temp
+*.fzpz
+*.bak
+
+# Logs
+*.log

@@ -1,0 +1,10 @@
+# Poulettor Arduino IDE dependencies
+
+ESP32 Arduino Core by Espressif Systems
+Tested with: 3.3.5
+
+RTClib by Adafruit
+Tested with: 2.1.4
+
+Adafruit BusIO
+Tested with: 1.17.4

@@ -1,0 +1,1 @@
+Use the official CERN-OHL-S-2.0 license text here: https://ohwr.org/cern_ohl_s_v2.txt
