@@ -57,8 +57,10 @@ The system is designed to be simple, repairable and independent from the cloud.
 <p align="center">
   <img src="docs/photos/pcb-front.jpg" width="500">
 </p>
-
-The current prototype uses a custom PCB marked **Poulettor 1.0**.
+<p align="center">
+  <img src="docs/pcb/pcb_front.png" width="250">
+  <img src="docs/pcb/pcb_back.png" width="250">
+</p>
 
 Hardware files are available in:
 
@@ -243,26 +245,10 @@ Install from Arduino Library Manager:
 - The enclosure is a prototype.
 - The mechanism must be adapted to each chicken coop door.
 
----
-
-## BOM
-
-Main components:
-
-- ESP32-C3 Mini
-- DS3231 RTC module
-- 2 × relay modules
-- DC gear motor
-- 2 × limit switches
-- 2 × push buttons
-- LED + resistor
-- custom PCB or hand wiring
-- 5V power source
-
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```txt
 Poulettor/
